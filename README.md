@@ -1,5 +1,5 @@
 # Toxicity-Prediction
-毒性检测\<br>  
+毒性检测\ 
 项目的详细说明以及要求DNN_Project_Specification_new_send.pdf文件里有详细说明.\<br>  
 数据在NR-ER-test和NR-ER-test两个文件夹里，可以读取.npy的one_hot向量形式的数组数据，也有可以读取SMILE notion用RNN实现。\<br>  
 我采用的是one_hot向量模型输入\<br>  
